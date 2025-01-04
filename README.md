@@ -1,14 +1,14 @@
-# 🎥 Video Production and Editing Training Program  
+# 🎥 Basic Networking
 
 Welcome to the **Video Production and Editing Training Program**. This foundational course is designed to equip participants with the essential skills for creating professional-grade videos.  
 
 ---
 
 ## 📋 Course Overview  
-- **Course Name:** Video Production and Editing  
-- **Batch Number:** CBF-029  
+- **Course Name:** Basic Networking  
+- **Batch Number:** CBF-026  
 - **Training Level:** Foundational  
-- **Training Track:** Video Production and Editing  
+- **Training Track:** Basic Networking
 
 ---
 
@@ -30,14 +30,13 @@ Welcome to the **Video Production and Editing Training Program**. This foundatio
 
 | Field                   | Details                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
-| **Name:**               | Your Name                                                        |
-| **Mobile No:**          | +8801843847344                                                            |
+| **Name:**               | Md Iftekhar Reza                                                        |
+| **Mobile No:**          | 01847554174                                                           |
 | **Email ID:**           | youremail@gmail.com                                                  |
-| **LinkedIn Profile:**   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/ashrafulislampayel) |
-| **GitHub Profile:**     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/ashrafulislampayel) |
-| **Freelancing Profile:**| ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.fiverr.com/asrafulislam831) |
-| **Shutterstock Profile:**| ![Shutterstock](https://img.shields.io/badge/Shutterstock-Contribute-red) [Explore Shutterstock Contributions](https://www.shutterstock.com/g/EngineerAshrafulIslam.bd) |
-| **Project Google Drive Link:** | ![Google Drive](https://img.shields.io/badge/Google%20Drive-Projects-yellowgreen?logo=google-drive) [Access Project Files](https://drive.google.com/drive/folders/1_0YxYR5avpr8l3Guqqt_rb_qIftryUYT) |
+| **LinkedIn Profile:**   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/md-iftekhar-reza-855278343) |
+| **GitHub Profile:**     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/Ifti-30) |
+| **Freelancing Profile:**| ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.freelancer.com/u/iftekharr2) |
+| **Project Google Drive Link:** | ![Google Drive](https://img.shields.io/badge/Google%20Drive-Projects-yellowgreen?logo=google-drive) [Access Project Files](https://drive.google.com/drive/folders/11v_lyl7RtZ2v8darS2YU6xlYtrQtErcx) |
 
 ---
 
